@@ -1,2 +1,6 @@
 this is coffee recipe file
+
+add coffee in the coffee bowl
+
 add coffee in the coffee machine
+
